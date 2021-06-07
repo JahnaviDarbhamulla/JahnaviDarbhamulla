@@ -17,7 +17,10 @@
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnaviDarbhamulla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviDarbhamulla&theme=radical)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviDarbhamulla&theme=radical) <img src="https://user-images.githubusercontent.com/76477365/120953404-84003900-c76a-11eb-99ff-f9887532944e.png" style="margin-left:20px;" alt="alt text" width="300px" height="300px" >
 
 
 
