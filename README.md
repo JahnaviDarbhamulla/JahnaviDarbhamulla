@@ -25,7 +25,8 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviDarbhamulla&theme=radical) <img src="https://user-images.githubusercontent.com/76477365/120953404-84003900-c76a-11eb-99ff-f9887532944e.png" style="margin-left:20px;" alt="alt text" width="200px" height="200px" >
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviDarbhamulla&theme=radical) 
+<img src="https://cdn.discordapp.com/attachments/768075447488610316/877729829649264650/femalecodertocat.png" style="margin-left:20px;" alt="alt text" width="300px" height="300px" >
 
 
 
