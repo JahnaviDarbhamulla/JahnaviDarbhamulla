@@ -6,7 +6,7 @@
 <a href="https://github.com/JahnaviDarbhamulla" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.instagram.com/janworxx/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 <a href="https://medium.com/@jahnavi.darbhamulla" target="_blank"><img alt="Mehttps://medium.com/@jahnavi.darbhamulladium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="jahnavi.darbhamulla@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:jahnavi.darbhamulla@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
  <br>
  
