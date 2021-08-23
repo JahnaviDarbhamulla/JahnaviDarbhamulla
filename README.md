@@ -22,7 +22,7 @@
 ```javascript
 const India = {
  
-    askMeAbout: ["web dev", "tech", "ML", "deep learning",],
+    askMeAbout: ["web dev", "tech", "ML", "deep learning"],
     skills: {
         frontend_technologies: ["HTML", "CSS", "Javascript"],
         backend_technologies: ["MongoDB", "Node.js", "REST API"],
