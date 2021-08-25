@@ -34,7 +34,7 @@ const India = {
         frontend_technologies: ["HTML", "CSS", "Javascript"],
         backend_technologies: ["MongoDB", "Node.js", "REST API"],
         programming_languages: ["Python", "C", "C++"],
-        tools: ["Mongoose", "Bootstrap", "Jquery", "Postman API"]
+        tools: ["Mongoose", "Bootstrap", "Jquery", "Postman API","Adobe Illustrator"]
     },
     Hobbies: ["Painting", "Dancing","Badminton","Journalling"],
     currentFocus: "Learning AIML",
