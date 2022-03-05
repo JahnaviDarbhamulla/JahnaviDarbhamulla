@@ -10,8 +10,8 @@
 
  <br>
  
- > I am a Full Stack Developer and I enjoy learning new languages and frameworks. 
- > I have a keen interest in Artificial Intelligence and Web development.
+ > I am an AIML and a Full Stack Developer and I enjoy learning new languages and frameworks. 
+ > I have a keen interest in Artificial Intelligence and Web development and I am currently working on Deep Learning Concepts.
  
 
  
